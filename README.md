@@ -1,18 +1,28 @@
-# Demos
+# ![DevOps?](img/4.gif "Life") **Demos** 💣
 
-## Setting up GitHub Actions
-
-![GHAs](./2.png "Follow 1, 2 and 3")
-
-    a. AWS_ACCESS_KEY_ID = YOUR_AWS_ACCESS_KEY
-    b. AWS_SECRET_ACCESS_KEY = YOUR_AWS_SECRET_ACCESS_KEY
-    c. DATA1 = YOUR_TFVARS_BASE64_ENCODED_VALUES
-    base64 terraform.tfvars
-    d. DATA2 = YOUR_BACKEND_CONFIF_BASE64_ENCODED_VALUES
-    base64 backend.conf
-
-__________________________________________________
+![Demos](img/5.jpeg "About this Demos")
 
 ![Fuck](https://c.tenor.com/-aZGk99QVM8AAAAC/space-force-microsoft.gif "!!!")
 
-![Happening](./1.jpeg "Now! Now! You all good!")
+![Happening](img/1.jpeg "Now! Now! You all good!")
+______________________________________________
+
+______________________________________________
+
+![Technology](https://img.shields.io/badge/Technology-%F0%9F%94%A5-brightgreen)
+
+![Educational](https://img.shields.io/badge/Educational%20%F0%9F%93%9A-%E2%9C%93%E2%9C%93%E2%9C%93-informational)
+
+![Technology](https://img.shields.io/badge/Operations-%E2%9D%A4%EF%B8%8F-success)
+
+[![GitHub forks](https://img.shields.io/github/forks/0opsops/demos?style=social)](https://github.com/0opsops/demos/network)
+
+[![GitHub issues](https://img.shields.io/github/issues/0opsops/demos?label=Issues)](https://github.com/0opsops/demos/issues)
+
+[![License: WTFPL](https://img.shields.io/badge/License%20%F0%9F%93%87%20%20-WTFPL-blueviolet)](./LICENSE.md)
+
+**WE DO NOT OWN ANYTHING YOU SEE HERE! THIS IS FOR NON-COMMERCIAL AND EDUCATIONAL PURPOSE ONLY!**
+__________________________________________________
+![Stacks](img/amz.svg "Tooling Stacks") ![Stacks](img/gh.svg "Tooling Stacks") <img src="img/gha.png" style="width:56px;"/> ![Stacks](img/pkr.svg "Tooling Stacks") ![Stacks](img/tf.svg "Tooling Stacks") ![Stacks](img/ubt.svg "Tooling Stacks") ![Stacks](img/nd.svg "Tooling Stacks") ![Stacks](img/dk.svg "Tooling Stacks")
+
+<a href="mailto:oopsops@protonmail.com?"><img src="img/mail.svg"/></a>
